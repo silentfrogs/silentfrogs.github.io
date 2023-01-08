@@ -103,14 +103,31 @@ font-family: 'Coda Caption', sans-serif; (header font)
 }
 
 /* Content (used for the other documents) */
-<<<<<<< HEAD
 
-#content {
+#content{
     text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
-#content h2{
+#content h2 , #content h4{
+    margin-bottom : 15px;
+    font-family: 'Coda Caption', sans-serif; 
+}
+
+#content img {
     margin-bottom : 15px;
 }
-=======
->>>>>>> f6d6865f69a48079fad173da0020ea6e609e695c
+
+#content i{
+    position : static;
+    width : 100%;
+    margin-bottom : 30px;
+}
+
+#content .questions {
+    text-align: left;
+    margin-left : 150px;
+    font-size : 16px;
+}
+
+
