@@ -107,3 +107,7 @@ font-family: 'Coda Caption', sans-serif; (header font)
 #content {
     text-align: center;
 }
+
+#content h2{
+    margin-bottom : 15px;
+}
