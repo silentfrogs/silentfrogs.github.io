@@ -131,4 +131,8 @@ font-family: 'Coda Caption', sans-serif; (header font)
     font-size : 16px;
 }
 
+#content p{
+    font-weight : bold;
+}
+
 
