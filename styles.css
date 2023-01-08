@@ -103,6 +103,7 @@ font-family: 'Coda Caption', sans-serif; (header font)
 }
 
 /* Content (used for the other documents) */
+<<<<<<< HEAD
 
 #content {
     text-align: center;
@@ -111,3 +112,5 @@ font-family: 'Coda Caption', sans-serif; (header font)
 #content h2{
     margin-bottom : 15px;
 }
+=======
+>>>>>>> f6d6865f69a48079fad173da0020ea6e609e695c
